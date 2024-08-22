@@ -12,8 +12,8 @@ To run the tests:
 
 
 To use the login method you will need to create your own .env file. Format it like this:
-DB_USERNAME=
-DB_PASSWORD=
-PORT=
-DATABASE_URL=
-SECRET_KEY=
+    DB_USERNAME=
+    DB_PASSWORD=
+    PORT=
+    DATABASE_URL=
+    SECRET_KEY=
